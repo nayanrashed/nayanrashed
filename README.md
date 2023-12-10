@@ -1,19 +1,13 @@
+![Front End Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 ### Hi there 👋, This is Rashed Mahamud Nayan
 #### Front End Web Developer
-![Front End Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
+# 💫 About Me:
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: REACT / JS / HTML / CSS/PYTHON
 
-- 🔭 I’m currently working on this page. 
 
-
-
-
-
-
-# 💫 About Me:
 I'm currently working as a Front End Developer with MERN Stack.<br>I'm looking to collaborate on website testing and its security features.<br>I'm looking for help to integrate Python with the MERN Stack.<br>I'm currently learning JWT and Python.<br>Ask me anything.<br>Fun Fact- I'm a Civil Engineer who loves coding. I distinguished myself as a Problem Solver.   
 
 
