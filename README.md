@@ -3,9 +3,23 @@
 #### Front End Web Developer
 
 # 💫 About Me:
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+👷‍♂️ Civil Engineer | 💻 MERN Stack Developer | 🐍 Python Enthusiast
 
-Skills: REACT / JS / HTML / CSS/PYTHON
+Hello there! 👋 I'm Rashed Mahamud Nayan, a passionate civil engineer with a flair for coding and a strong love for technology. While my professional background lies in the world of civil engineering, my heart beats to the rhythm of coding languages. I distinguished myself as a Problem Solver. 
+
+🚀 I recently completed an online MERN (MongoDB, Express.js, React, Node.js) stack course, diving into the exciting realm of full-stack development. My journey doesn't stop there; I'm always exploring new technologies and seeking opportunities to expand my skills.
+
+💡 With a solid foundation in Python, I enjoy solving problems, automating tasks, and exploring the endless possibilities of this versatile language.
+
+🏗️ As a civil engineer, I bring a unique perspective to web development and software development, combining analytical thinking from the engineering world with the creativity and innovation of coding.
+
+🌐 Feel free to explore my GitHub repositories, where I showcase my projects, contributions, and the intersection of my engineering and coding passions. Let's build a future where technology and infrastructure harmoniously coexist!
+
+
+
+Happy coding! 🚀🛠️
+
+
 
 
 - 🔭 I’m currently working on working as a Front End Developer with MERN Stack. 
