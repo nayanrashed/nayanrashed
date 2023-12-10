@@ -8,8 +8,12 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 Skills: REACT / JS / HTML / CSS/PYTHON
 
 
-I'm currently working as a Front End Developer with MERN Stack.<br>I'm looking to collaborate on website testing and its security features.<br>I'm looking for help to integrate Python with the MERN Stack.<br>I'm currently learning JWT and Python.<br>Ask me anything.<br>Fun Fact- I'm a Civil Engineer who loves coding. I distinguished myself as a Problem Solver.   
-
+ 🔭 I’m currently working on working as a Front End Developer with MERN Stack. 
+ 🌱 I’m currently learning JavaScript, JWT and Python. 
+ 👯 I’m looking to collaborate on website testing and its security features. 
+ 🤔 I’m looking for help with to integrate Python with the MERN Stack. 
+ 💬 Ask me about anything 
+ ⚡ Fun fact:  I'm a Civil Engineer who loves coding. I distinguished myself as a Problem Solver. 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rashed.nayan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rashed-nayan-3215892a4) 
