@@ -20,7 +20,7 @@ I'm currently working as a Front End Developer with MERN Stack.<br>I'm looking t
 ![](https://github-readme-stats.vercel.app/api?username=nayanrashed&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nayanrashed&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nayanrashed&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-activity-graph.vercel.app/graph?username=nayanrashed&theme=radical&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=nayanrashed&theme=radical)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nayanrashed&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
