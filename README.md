@@ -24,7 +24,8 @@ Happy coding! 🚀🛠️
 - 🤔 I’m looking for help with to integrate Python with the MERN Stack. 
 - 💬 Ask me about anything 
 - ⚡ Fun fact:  I'm a Civil Engineer who loves coding.
-  ![](https://komarev.com/ghpvc/?username=nayanrashed)
+ <br>
+  ![](https://komarev.com/ghpvc/?username=nayanrashed&color=blueviolet)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rashed.nayan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rashed-nayan-3215892a4) 
