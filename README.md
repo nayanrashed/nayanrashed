@@ -1,6 +1,6 @@
 ![logo](https://raw.githubusercontent.com/nayanrashed/nayanrashed/main/mern-stack.webp)
-### Hi there 👋, This is Rashed Mahamud Nayan
-#### Front End Web Developer
+<h1 align="center">Hi there 👋, This is Rashed Mahamud Nayan</h1>
+<h3 align="center">Front End Web Developer</h3>
 
 # 💫 About Me:
 👷‍♂️ Civil Engineer | 💻 MERN Stack Developer | 🐍 Python Enthusiast
