@@ -1,7 +1,7 @@
 ![logo](https://raw.githubusercontent.com/nayanrashed/nayanrashed/main/mern-stack.webp)
 <h1 align="center">Hi there 👋, This is Rashed Mahamud Nayan</h1>
 <h3 align="center">Front End Web Developer</h3>
-![](https://komarev.com/ghpvc/?username=nayanrashed&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=nayanrashed)
 
 # 💫 About Me:
 👷‍♂️ Civil Engineer | 💻 MERN Stack Developer | 🐍 Python Enthusiast
