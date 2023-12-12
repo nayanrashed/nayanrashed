@@ -9,7 +9,7 @@ Hello there! 👋 I'm Rashed Mahamud Nayan, a passionate civil engineer with a f
 
 🚀 I recently completed an online MERN (MongoDB, Express.js, React, Node.js) stack course, diving into the exciting realm of full-stack development. My journey doesn't stop there; I'm always exploring new technologies and seeking opportunities to expand my skills.
 
-💡 With a solid foundation in Python, I enjoy solving problems, automating tasks, and exploring the endless possibilities of this versatile language.
+💡 With a solid foundation in Python, I enjoy solving problems and exploring the endless possibilities of this versatile language.
 
 🏗️ As a civil engineer, I bring a unique perspective to web development and software development, combining analytical thinking from the engineering world with the creativity and innovation of coding.
 
@@ -27,7 +27,7 @@ Happy coding! 🚀🛠️
 - 👯 I’m looking to collaborate on website testing and its security features. 
 - 🤔 I’m looking for help with to integrate Python with the MERN Stack. 
 - 💬 Ask me about anything 
-- ⚡ Fun fact:  I'm a Civil Engineer who loves coding. I distinguished myself as a Problem Solver. 
+- ⚡ Fun fact:  I'm a Civil Engineer who loves coding. 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rashed.nayan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rashed-nayan-3215892a4) 
