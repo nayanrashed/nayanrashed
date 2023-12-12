@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-👷‍♂️ Civil Engineer | 💻 MERN Stack Developer | 🐍 Python Enthusiast
+👷‍♂️ Civil Engineer | 💻 Front End Web Developer | 🐍 Python Enthusiast
 
 Hello there! 👋 I'm Rashed Mahamud Nayan, a passionate civil engineer with a flair for coding and a strong love for technology. While my professional background lies in the world of civil engineering, my heart beats to the rhythm of coding languages. I distinguished myself as a Problem Solver. 
 
