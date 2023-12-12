@@ -1,4 +1,4 @@
-![logo](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![logo](https://raw.githubusercontent.com/nayanrashed/nayanrashed/main/mern-stack.webp)
 ### Hi there 👋, This is Rashed Mahamud Nayan
 #### Front End Web Developer
 
