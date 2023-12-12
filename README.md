@@ -1,7 +1,7 @@
 ![logo](https://raw.githubusercontent.com/nayanrashed/nayanrashed/main/mern-stack.webp)
 <h1 align="center">Hi there 👋, This is Rashed Mahamud Nayan</h1>
 <h3 align="center">Front End Web Developer</h3>
-![](https://komarev.com/ghpvc/?username=nayanrashed)
+
 
 # 💫 About Me:
 👷‍♂️ Civil Engineer | 💻 MERN Stack Developer | 🐍 Python Enthusiast
@@ -23,7 +23,8 @@ Happy coding! 🚀🛠️
 - 👯 I’m looking to collaborate on website testing and its security features. 
 - 🤔 I’m looking for help with to integrate Python with the MERN Stack. 
 - 💬 Ask me about anything 
-- ⚡ Fun fact:  I'm a Civil Engineer who loves coding. 
+- ⚡ Fun fact:  I'm a Civil Engineer who loves coding.
+  ![](https://komarev.com/ghpvc/?username=nayanrashed)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rashed.nayan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rashed-nayan-3215892a4) 
